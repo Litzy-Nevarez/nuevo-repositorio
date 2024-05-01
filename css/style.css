@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    background-color: violet;
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+}
